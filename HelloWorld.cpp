@@ -59,7 +59,7 @@ int main()
     std::cin >> h;
     std::cout << "You entered " << h << '\n';
 
-
+// It is generally good practice to avoid using extra whitespace where it is not needed.
     return 0;
 }
 
